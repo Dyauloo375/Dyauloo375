@@ -3,9 +3,9 @@
 
 - 🌱 Currently, I am learning: **Test scripting, databases, frameworks, hardware PCB design, computer architecture**
 
-- 👔 Check out my LinkedIn profile **https://www.linkedin.com/in/daniel-yau375/**
+- 👔 Check out my LinkedIn profile: **https://www.linkedin.com/in/daniel-yau375/**
 
-- 📧 Email me! **dyauloo@gmail.com**
+- 📧 Email me: **dyauloo@gmail.com**
 
 <p align="left">
 </p>
