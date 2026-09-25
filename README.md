@@ -1,4 +1,4 @@
-<h1 align="center">Hello,I'm Daniel!</h1>
+<h1 align="center">Hello, I'm Daniel!</h1>
 <h3 align="center">Computer Engineering Co-op Student @ University of Alberta</h3>
 
 - 🌱 I’m currently learning **Test scripting, databases, frameworks, hardware PCB design, computer architecture**
