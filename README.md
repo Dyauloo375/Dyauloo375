@@ -1,7 +1,7 @@
 <h1>Hello, I'm Daniel!</h1>
 <h3>Computer Engineering Co-op Student @ University of Alberta</h3>
 
-* 🌱 Currently exploring **test scripting, databases, software frameworks, PCB design, and computer architecture**
+* 🌱 Currently exploring **test scripting, databases, PCB design, software frameworks and computer architecture**
 
 * 👔 Connect with me on **[LinkedIn](https://www.linkedin.com/in/daniel-yau375/)**
 
